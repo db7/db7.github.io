@@ -1,0 +1,9 @@
+# theme: jekyll-theme-minimal
+title: Notes
+description: Archive of notes
+url: https://db7.github.io
+plugins:
+  - jekyll-feed
+
+# Optional: show excerpts on index
+excerpt_separator: "<!--more-->"
